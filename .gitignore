@@ -4,3 +4,13 @@ src/test/java/CodingTest/RealExam/
 
 
 
+#
+.gradle/
+.idea/
+build
+gradle/wrapper
+out
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
